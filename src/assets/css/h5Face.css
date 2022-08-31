@@ -1,0 +1,70 @@
+.h5-face {
+    box-sizing: border-box;
+    height: 100%;
+    font-size: 0.378rem; }
+.h5-face .van-loading {
+    left: 45%; }
+.h5-face--tab {
+    height: 1.081rem;
+    position: relative;
+    font-weight: bold;
+    line-height: 1.081rem;
+    text-align: center; }
+.h5-face--tab .van-icon-arrow-left {
+    position: absolute;
+    font-weight: bold;
+    left: 0.27rem;
+    top: 0.405rem; }
+.h5-face--identity {
+    height: calc(100vh - 1.081rem);
+    background: #FBFBFB; }
+.h5-face--identity img {
+    display: block;
+    width: 100%; }
+.h5-face--identity .identity-btn {
+    position: relative;
+    top: 10%;
+    color: #636363; }
+.h5-face--identity .identity-btn .btn-start {
+    width: 7.297rem;
+    height: 1.189rem;
+    margin: 0 auto;
+    line-height: 1.189rem;
+    text-align: center;
+    color: #FFFFFF;
+    border-radius: 0.811rem;
+    background: linear-gradient(to right, #0A85FF, #4861FF); }
+.h5-face--identity .identity-btn .btn-privacy {
+    text-align: center;
+    margin: 0.541rem 0 0 0; }
+.h5-face--identity .identity-btn .btn-privacy input {
+    accent-color: #0A85FF; }
+
+.h5-face--privacy {
+    box-sizing: border-box;
+    height: 100%;
+    font-size: 0.378rem;
+    background: #F0F1F3; }
+.h5-face--privacy .h5-face--tab {
+    height: 1.081rem;
+    position: relative;
+    font-weight: bold;
+    line-height: 1.081rem;
+    text-align: center;
+    background: #FFFFFF; }
+.h5-face--privacy .h5-face--tab .van-icon-arrow-left {
+    position: absolute;
+    font-weight: bold;
+    left: 0.27rem;
+    top: 0.405rem; }
+.h5-face--privacy .h5-face--text {
+    height: calc(100vh - 1.081rem);
+    padding: 1.351rem 0.324rem 0 0.324rem; }
+.h5-face--privacy .h5-face--text .title-color {
+    font-weight: bold;
+    color: #1B2026;
+    padding: 0.541rem 0; }
+.h5-face--privacy .h5-face--text .text-color {
+    color: #7B8085; }
+
+/*# sourceMappingURL=h5Face.css.map */
